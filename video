@@ -1,0 +1,20 @@
+<script>start("c:\\Users\\ali\\Desktop\\my_portfolio\\homework_lesson_5\\Новая папка\\video\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Новая папка","%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0",1,0,"0 B",1740043134,"2/20/25, 2:18:54 PM");</script>
+<script>addRow("IMG_1368.MOV","IMG_1368.MOV",0,93801711,"89.5 MB",1740040219,"2/20/25, 1:30:19 PM");</script>
+<script>addRow("IMG_2813.MOV","IMG_2813.MOV",0,48864249,"46.6 MB",1740040434,"2/20/25, 1:33:54 PM");</script>
+<script>addRow("IMG_3826.MOV","IMG_3826.MOV",0,66480489,"63.4 MB",1739712840,"2/16/25, 6:34:00 PM");</script>
+<script>addRow("IMG_6362.MOV","IMG_6362.MOV",0,23097463,"22.0 MB",1740040385,"2/20/25, 1:33:05 PM");</script>
+<script>addRow("IMG_6467.MOV","IMG_6467.MOV",0,34415826,"32.8 MB",1740040418,"2/20/25, 1:33:38 PM");</script>
+<script>addRow("IMG_6604.MOV","IMG_6604.MOV",0,39111211,"37.3 MB",1740040402,"2/20/25, 1:33:22 PM");</script>
+<script>addRow("IMG_6666.MOV","IMG_6666.MOV",0,34061603,"32.5 MB",1740040399,"2/20/25, 1:33:19 PM");</script>
+<script>addRow("IMG_7149.MOV","IMG_7149.MOV",0,37272231,"35.5 MB",1740040423,"2/20/25, 1:33:43 PM");</script>
+<script>addRow("IMG_7934.MOV","IMG_7934.MOV",0,20671882,"19.7 MB",1740040352,"2/20/25, 1:32:32 PM");</script>
+<script>addRow("IMG_8624.MOV","IMG_8624.MOV",0,48983612,"46.7 MB",1740040422,"2/20/25, 1:33:42 PM");</script>
+<script>addRow("IMG_8942.MOV","IMG_8942.MOV",0,4757884,"4.5 MB",1740003206,"2/20/25, 3:13:26 AM");</script>
+<script>addRow("photo_2025-02-20_12-48-35.jpg","photo_2025-02-20_12-48-35.jpg",0,161468,"158 kB",1740037718,"2/20/25, 12:48:38 PM");</script>
+<script>addRow("uslugi.jpg","uslugi.jpg",0,65281,"63.8 kB",1740039020,"2/20/25, 1:10:20 PM");</script>
+<script>addRow("video_2025-02-20_13-30-27.mp4","video_2025-02-20_13-30-27.mp4",0,11013815,"10.5 MB",1740040231,"2/20/25, 1:30:31 PM");</script>
+<script>addRow("video_2025-02-20_13-30-36.mp4","video_2025-02-20_13-30-36.mp4",0,12290844,"11.7 MB",1740040240,"2/20/25, 1:30:40 PM");</script>
+<script>addRow("video_2025-02-20_13-30-45.mp4","video_2025-02-20_13-30-45.mp4",0,11379476,"10.9 MB",1740040268,"2/20/25, 1:31:08 PM");</script>
+<script>addRow("video_2025-02-20_13-30-51.mp4","video_2025-02-20_13-30-51.mp4",0,18940096,"18.1 MB",1740040356,"2/20/25, 1:32:36 PM");</script>
